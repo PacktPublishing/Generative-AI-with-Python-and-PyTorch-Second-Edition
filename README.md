@@ -22,7 +22,7 @@ Joseph Babcock, Raghav Bali</p>
 <details open> 
   <summary><h2>About the book</summary>
 <a href="https://www.packtpub.com/product/unity-cookbook-fifth-edition/9781805123026">
-<img src="https://content.packt.com/B22333/cover_image_small.jpg" alt="Unity Cookbook, Fifth Edition" height="256px" align="right">
+<img src="https://m.media-amazon.com/images/I/71jqIs3-r+L._SL1500_.jpg" alt="Generative AI with Python and PyTorch, Second Edition" height="256px" align="right">
 </a>
 
 Become an expert in generative AI through practical projects to leverage cutting-edge models for Natural Language Processing (NLP) and computer vision. Generative AI with Python and PyTorch, Second Edition, is your comprehensive guide to creating advanced AI applications. Leveraging Python, this book provides a detailed exploration of the latest generative AI technologies.
